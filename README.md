@@ -58,8 +58,8 @@ ____
   Stats:
 </h2>
 <p align="center">
-  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=benvito&show_icons=true&theme=dark&locale=en" alt="benvito" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=benvito&theme=dark" alt="benvito" />
+  &nbsp;<img width=400 align="center" src="https://github-readme-stats.vercel.app/api?username=benvito&show_icons=true&theme=dark&locale=en" alt="benvito" />
+  <img width=400 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=benvito&theme=dark" alt="benvito" />
   <br>
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=benvito&theme=dark" />
 </p>
