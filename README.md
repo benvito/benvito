@@ -12,7 +12,11 @@ ____
   About:
 </h2>
 <p align="center"> 
+  18 y.o.
+  <br>
   Currently a python developer, but still to come...
+  <br>
+  Student of School 21.
 </p>
 
 <h2 align="center">Languages and Tools:</h2>
