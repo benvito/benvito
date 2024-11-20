@@ -12,15 +12,21 @@ ____
   About:
 </h2>
 <p align="center"> 
-  18 y.o.
+  19 y.o.
   <br>
-  Currently a python developer, but still to come...
+  Junior+ Golang Developer. Working in 5A
   <br>
-  Student of School 21.
+  Student of School 21 (9 lvl).
 </p>
 
 <h2 align="center">Languages and Tools:</h2>
 <p align="center"> 
+  <a href="https://github.com/golang/go" target="_blank" rel="noreferrer"> <img height="50" width="50" src="https://raw.githubusercontent.com/railwayapp/devicons/refs/heads/main/static/i/go.svg" /></a>
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="50" height="50"/></a> 
+  <a href="https://nginx.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/railwayapp/devicons/refs/heads/main/static/i/nginx.svg" alt="nginx" width="50" height="50"/></a> 
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/railwayapp/devicons/refs/heads/main/static/i/docker.svg" alt="docker" width="50" height="50"/></a> 
+  <a href="https://about.gitlab.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/railwayapp/devicons/refs/heads/main/static/i/gitlab.svg" alt="grafana" width="50" height="50"/></a>   
+  <a href="https://swagger.io/" target="_blank" rel="noreferrer"> <img src="https://blog.skillfactory.ru/wp-content/uploads/2023/02/1_ihb6hdmaw48vjtbsjyhbzg-1830140.png" alt="swagger" width="50" height="50"/></a> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/></a> 
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="50"/></a> 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/></a> 
@@ -38,9 +44,9 @@ ____
   I'll be good at this soon:
 </h2>
 <p align="center"> 
-  <a href="https://github.com/golang/go" target="_blank" rel="noreferrer"> <img height="50" width="50" src="https://cdn.simpleicons.org/go/#00ADD8" /></a>
+  <a href="https://grafana.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/railwayapp/devicons/refs/heads/main/static/i/grafana.svg" alt="grafana" width="50" height="50"/></a> 
+  <a href="https://clickhouse.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/railwayapp/devicons/refs/heads/main/static/i/clickhouse.svg" alt="clickhouse" width="50" height="50"/></a> 
   <img height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" />
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="50" height="50"/></a> 
 </p>
 
 <h2 align="center">
