@@ -16,7 +16,7 @@ ____
   <br>
   Junior+ Golang Developer. Working in 5A
   <br>
-  Student of School 21 (9 lvl).
+  Student of School 21 (10 lvl).
 </p>
 
 <h2 align="center">Languages and Tools:</h2>
@@ -25,13 +25,15 @@ ____
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="50" height="50"/></a> 
   <a href="https://nginx.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/railwayapp/devicons/refs/heads/main/static/i/nginx.svg" alt="nginx" width="50" height="50"/></a> 
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/railwayapp/devicons/refs/heads/main/static/i/docker.svg" alt="docker" width="50" height="50"/></a> 
-  <a href="https://about.gitlab.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/railwayapp/devicons/refs/heads/main/static/i/gitlab.svg" alt="grafana" width="50" height="50"/></a>   
+  <a href="https://about.gitlab.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/railwayapp/devicons/refs/heads/main/static/i/gitlab.svg" alt="gitlab" width="50" height="50"/></a> 
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/></a> 
+  <a href="https://redis.io/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/1529926?s=200&v=4" alt="redis" width="50" height="50"/></a> 
   <a href="https://swagger.io/" target="_blank" rel="noreferrer"> <img src="https://blog.skillfactory.ru/wp-content/uploads/2023/02/1_ihb6hdmaw48vjtbsjyhbzg-1830140.png" alt="swagger" width="50" height="50"/></a> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/></a> 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="50"/></a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/></a> 
   <a href="https://github.com/flet-dev/flet" target="_blank" rel="noreferrer"> <img src="https://github.com/flet-dev/flet/blob/main/media/logo/app_icon_256.png" alt="flet" width="50" height="50"/></a> 
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="50" height="50"/></a> 
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="50"/></a> 
+<img height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" />  
+<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="50" height="50"/></a> 
   <a href="https://jupyter.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/jupyter/jupyter-original.svg" alt="jupyter" width="50" height="50"/></a> 
   <a href="https://github.com/aiogram/aiogram" target="_blank" rel="noreferrer"> <img src="https://i.postimg.cc/bJPqTBLS/aiogram-transformed.png" alt="aiogram" width="50" height="50"/></a> 
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="50" height="50"/></a> 
@@ -46,7 +48,6 @@ ____
 <p align="center"> 
   <a href="https://grafana.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/railwayapp/devicons/refs/heads/main/static/i/grafana.svg" alt="grafana" width="50" height="50"/></a> 
   <a href="https://clickhouse.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/railwayapp/devicons/refs/heads/main/static/i/clickhouse.svg" alt="clickhouse" width="50" height="50"/></a> 
-  <img height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" />
 </p>
 
 <h2 align="center">
