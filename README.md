@@ -14,7 +14,7 @@ ____
 <p align="center"> 
   19 y.o.
   <br>
-  Junior+ Golang Developer. Working in 5A
+  Middle Golang Developer. Working in 5A
   <br>
   Student of School 21 (10 lvl).
 </p>
