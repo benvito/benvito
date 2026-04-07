@@ -12,11 +12,11 @@ ____
   About:
 </h2>
 <p align="center"> 
-  19 y.o.
+  20 y.o.
   <br>
   Middle Golang Developer. Working in 5A
   <br>
-  Student of School 21 (10 lvl).
+  Graduate student of School 21.
 </p>
 
 <h2 align="center">Languages and Tools:</h2>
